@@ -1,3 +1,5 @@
+![SG Logo](Images/Logo.png)
+
 # JEE-ToDoList
 To-do Java Enterprise project. Connects to a MySQL db using Hibernate ORM. Maven handles the dependency injections.
 
