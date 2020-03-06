@@ -15,7 +15,7 @@ Because Hibernate is used to connect to the database it will need to be configur
 and credentials to work for each individual user inside the **hibernate.cfg.xml** file. Photos below to help with this process
 
 **Located inside the /src/main/resources folder**
-Parts that may need to be changed inside the <session-factory> of <hibernate-configuration>
+Parts that may need to be changed inside the session-factory of hibernate-configuration
 ![hibernate cfg xml](Images/HibernateMain.PNG)
     
 **Port Number**
